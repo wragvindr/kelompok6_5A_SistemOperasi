@@ -2,12 +2,12 @@
 
 ## Identitas
 
-- Nama: Dimah Alika Cahyani
-- NIM: 2510512014
+- Nama: Audira Syifa Amalia Rasyid
+- NIM: 2510512011
 - Kelompok: 6 (Kelas A)
 - Judul proyek: Rancangan dan Implementasi Sistem Otomasi Backup Data Linux Berbasis Checksum dan Pembatasan Akses Docker
 - Pilihan proyek: 5A Otomasi Backup dan Pemulihan Data
-- Peran: Anggota 1, Validasi Input dan Parameter
+- Peran: Anggota 2, Pembuatan Arsip dan Kompresi Data
 
 ## Asal Proyek
 
@@ -17,7 +17,7 @@ https://github.com/likaxheri/kelompok6_5A_SistemOperasi
 | Nama | NIM | Komponen |
 | :---- | :---- | :---- |
 | Dimah Alika Cahyani | 2510512014 | Validasi sumber dan parameter |
-| Audira Syifa Amalia Rasyid | 2510512011 | [ISI] |
+| Audira Syifa Amalia Rasyid | 2510512011 | Pembuatan Arsip dan Kompresi Data |
 | Lucky Ardillah | 2510512029 | [ISI] |
 | Dinda Azzahra | 2510512035 | [ISI] |
 | Alya Dyah Sari | 2510512036 | [ISI] |
